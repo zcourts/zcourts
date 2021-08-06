@@ -25,3 +25,4 @@ Stats
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcourts&count_private=true&show_icons=true&layout=compact" />
 </a>
 
+<img align="center" src="https://komarev.com/ghpvc/?username=zcourts&label=Views&color=blue&style=plastic" />
