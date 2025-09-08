@@ -1,35 +1,33 @@
-# zcourts <img src="https://komarev.com/ghpvc/?username=zcourts&style=flat-square"/>
+Account age: **14** years
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0.5em;">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height=200 loading="lazy" src="https://github-readme-stats-zcourts.vercel.app//api/top-langs/?username=zcourts&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="zcourts's GitHub stats"/>
-  </a>
+Pushed **19199** commits
 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height=200 loading="lazy" src="https://github-readme-stats-zcourts.vercel.app//api?username=zcourts&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="zcourts's GitHub stats"/>
-  </a>
-</div>
+Opened **209** issues
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0.5em;"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 loading="lazy" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zcourts&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="zcourts's GitHub stats"/>
-  </a>
+Submitted **526** pull requests
 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 loading="lazy" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zcourts&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="zcourts's GitHub stats"/>
-  </a>
-</div>
+Reviewed **204** pull requests
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0.5em;">
-    <a href="https://git.io/streak-stats"><img loading="lazy" src="https://streak-stats.demolab.com?user=zcourts&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=720 " alt="GitHub Streak" /></a>
-</div>
+Received **133** stars
 
-Connect me
--------------
+Own **50** repositories
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" alt="Twitter" />](https://twitter.com/zcourts)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub" />](https://github.com/zcourts/)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/telegram.svg" alt="Email" />](https://hypi.io/contact/)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/zcourts/)
+Contributed to **73** public repositories
 
-https://hypi.ai/
+Top 8 most used languages across your repositories:
+
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B131.3%25)
+![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B121%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B117.9%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B19.2%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%EF%B8%B18.1%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B16.8%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B11.6%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.7%25)
+
+Top 4 most used languages across your repositories:
+
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B131.3%25)
+![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B121%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B117.9%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B129.6%25)
