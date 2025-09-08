@@ -162,3 +162,50 @@ jobs:
 
       # Stack Overflow
       - name: Build StackOverflow (optional)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+          user: zcourts
+          template: classic
+          config_output: metrics.stackoverflow.svg
+          base: ""
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 0000000  # <-- your numeric SO user id
+          plugin_stackoverflow_sections: answers-top, answers-recent
+
+      # Last.fm “recently listened”
+      - name: Build Music (optional)
+        if: ${{ secrets.LASTFM_API_KEY != '' && secrets.LASTFM_USER != '' }}
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+          user: zcourts
+          template: classic
+          config_output: metrics.music.svg
+          base: ""
+          plugin_music: yes
+          plugin_music_provider: lastfm
+          plugin_music_token: ${{ secrets.LASTFM_API_KEY }}
+          plugin_music_user: ${{ secrets.LASTFM_USER }}
+          plugin_music_mode: recent
+
+      # PageSpeed for your site
+      - name: Build PageSpeed (optional)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+          user: zcourts
+          template: classic
+          config_output: metrics.pagespeed.svg
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://yourdomain.example
+
+      # Commit any new/changed SVGs
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add *.svg
+          git commit -m "Update metrics" || echo "No changes"
+          git push
