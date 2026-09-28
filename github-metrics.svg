@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 88 users
+                            Followed by 89 users
                         </div>
                     </section>
                     <section>
@@ -322,20 +322,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 12.3mb of code in 5655 edited files across 695 commits</small>
+                <small>estimation from 12.3mb of code in 5646 edited files across 694 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="310.3478462006711" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="310.3478462006711" y="0" width="31.419018461292488" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="341.76686466196355" y="0" width="20.92679165138664" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="362.6936563133502" y="0" width="2.455991259613727" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="365.1496475729639" y="0" width="0.8054330484707496" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="365.9550806214346" y="0" width="0.5639031980829738" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="366.5189838195176" y="0" width="0.5526459808199495" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="367.0716298003375" y="0" width="92.92837019966244" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="310.29047248262094" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="310.29047248262094" y="0" width="31.43285038076029" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="341.7233228633812" y="0" width="20.93600446932359" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="362.65932733270483" y="0" width="2.457072486048552" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="365.1163998187534" y="0" width="0.8057876325923663" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="365.9221874513458" y="0" width="0.5641514510203829" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="366.4863389023662" y="0" width="0.5528892778761682" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="367.03922818024233" y="0" width="92.96077181975772" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -9025,7 +9025,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>n0-computer/iroh</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.</div>
@@ -9078,7 +9078,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mxrch/GitFive</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐙 Track down GitHub users.</div>
@@ -9184,7 +9184,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vivek3141/ghostbuster</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ghostbuster: Detecting Text Ghostwritten by Large Language Models (NAACL 2024)</div>
@@ -9483,7 +9483,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Sept 2026, 03:58:09 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Sept 2026, 20:06:10 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
